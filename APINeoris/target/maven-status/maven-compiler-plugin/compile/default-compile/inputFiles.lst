@@ -1,0 +1,16 @@
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\ApiNeorisApplication.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\commons\EncriptadoConstantes.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\controller\AesController.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\controller\DataLoader.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\controller\ItemController.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\controller\PokemonController.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\entity\Item.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\repository\ItemRepository.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\security\SecurityConfig.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\security\WebConfig.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\service\AESCipherService.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\service\ItemService.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\service\KeyAndIvGenerator.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\service\ObtienePokemonService.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\serviceImplements\ItemServiceImplements.java
+C:\Users\israel.rosas\OneDrive - NEORIS\Documents\NeorisExamenes\APINeoris\src\main\java\com\exampleAPINeoris\APINeoris\serviceImplements\ObtienePokemonServiceImplements.java
